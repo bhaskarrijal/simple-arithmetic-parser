@@ -1,0 +1,3 @@
+# Simple Arithmetic Parser
+
+This is a simple arithmetic parser that can evaluate basic arithmetic expressions. It supports addition, subtraction, multiplication, and division operations. Written to practice recursive descent parsing for CSC365 Compiler Design and Construction, B.Sc. CSIT, TU IOST.
